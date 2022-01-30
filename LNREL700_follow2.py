@@ -28,7 +28,7 @@ Dict = {0: 'Centro',
 
 
 tab_par = "LNREL_700_Follow"
-datesq = '0122'
+datesq = '0129'
 dbtgt = Path('C:/sqlite/2022' + datesq + '_sqlite.dba')
 today = date.today()
 dat_dir = dbtgt.parent
